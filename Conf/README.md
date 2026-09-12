@@ -43,11 +43,6 @@ Surge最低支持版本 :<br>
 
 > **完整版（中文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-CN.conf<br>
 
-**适合 Surge 5 列表视图**<br>
-> **完整版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf<br>
-
-> **轻量版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Lite.conf<br>
-
 **适配两个机场订阅**<br>
 > **Family :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/refs/heads/Master/Conf/Spec/Surge-Family.conf<br>
 
@@ -68,5 +63,8 @@ Surge最低支持版本 :<br>
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
-[「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://nxonearth.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
-[「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://482469.dedicated-afflink.com) <br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://nxonearth.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+
+> **「肯の机」:** [三网优化高端直连机场，直连机场天花板，支持协议丰富。](https://kendeji.io/#/auth?invite=uuYIpWNi) <br>
+
+> **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](482469.l49.net) <br>
